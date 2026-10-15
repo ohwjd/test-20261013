@@ -15,3 +15,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-15T12:43:22.394Z,P0002,,297915765,claim_encoding,rejected,already_locked,campaign.claimTask,1,"{""task_id"":""P0002""}",14
 2026-10-15T12:43:27.030Z,P0002,,297915765,claim_encoding,rejected,already_locked,campaign.claimTask,1,"{""task_id"":""P0002""}",13
 2026-10-15T12:43:29.872Z,P0002,,297915765,claim_encoding,rejected,already_locked,campaign.claimTask,1,"{""task_id"":""P0002""}",15
+2026-10-15T18:01:26.201Z,P0004,,297915765,reap,released_with_work,encoding,,,,
