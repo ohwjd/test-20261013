@@ -129,7 +129,7 @@
                            <label xml:id="label-8">Trompete in F I II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-9" n="9" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
-                           <label xml:id="label-9">Posaune II</label>
+                           <label xml:id="label-9">Posaune I, II, III</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-10" n="10" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.sym="cut">
                            <label xml:id="label-10">Pauken in A, e</label>
@@ -596,7 +596,7 @@
                            <label xml:id="label-26">Trompete in F I II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-27" n="9" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
-                           <label xml:id="label-27">Posaune II</label>
+                           <label xml:id="label-27">Posaune I, II, III</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-28" n="10" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.sym="cut">
                            <label xml:id="label-28">Pauken in A, e</label>
