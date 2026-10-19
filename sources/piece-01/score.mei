@@ -126,7 +126,7 @@
                            </staffDef>
                         </staffGrp>
                         <staffDef xml:id="staffDef-8" n="8" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="3" trans.semi="5" meter.sym="cut">
-                           <label xml:id="label-8">Trompete ın F I II</label>
+                           <label xml:id="label-8">Trompete in F I II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-9" n="9" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
                            <label xml:id="label-9">Posaune II</label>
@@ -593,7 +593,7 @@
                            </staffDef>
                         </staffGrp>
                         <staffDef xml:id="staffDef-26" n="8" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="3" trans.semi="5" meter.sym="cut">
-                           <label xml:id="label-26">Trompete ın F I II</label>
+                           <label xml:id="label-26">Trompete in F I II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-27" n="9" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
                            <label xml:id="label-27">Posaune II</label>
