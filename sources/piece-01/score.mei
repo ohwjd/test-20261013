@@ -158,15 +158,15 @@
                            <staffDef xml:id="staffDef-17" n="17" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
                               <label xml:id="label-17">Violoncello</label>
                            </staffDef>
-                           <staffDef xml:id="staffDef-18" n="18" lines="5" clef.shape="F" clef.line="4" trans.diat="-7" trans.semi="-12" meter.sym="cut">
-                              <label xml:id="label-18">Kontrabass</label>
+                           <staffDef xml:id="staffDef-18" n="18" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
+                              <label xml:id="label-18">Test</label>
+                           </staffDef>
+                           <staffDef xml:id="staffDef-19" n="19" lines="5" clef.shape="F" clef.line="4" trans.diat="-7" trans.semi="-12" meter.sym="cut">
+                              <label xml:id="label-19">Kontrabass</label>
                            </staffDef>
                         </staffGrp>
                      </staffGrp>
-                     <staffDef xml:id="staffDef-19" n="19" lines="5" clef.shape="G" clef.line="2" meter.sym="cut"/>
-                     <staffDef xml:id="staffDef-20" n="20" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
-                        <label xml:id="label-19">Test</label>
-                     </staffDef>
+                     <staffDef xml:id="staffDef-20" n="20" lines="5" clef.shape="G" clef.line="2" meter.sym="cut"/>
                      <staffDef xml:id="staffDef-21" n="21" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
                         <label xml:id="label-20">Test</label>
                      </staffDef>
@@ -695,15 +695,15 @@
                            <staffDef xml:id="staffDef-38" n="17" lines="5" clef.shape="F" clef.line="4" meter.sym="cut">
                               <label xml:id="label-37">Violoncello</label>
                            </staffDef>
-                           <staffDef xml:id="staffDef-39" n="18" lines="5" clef.shape="F" clef.line="4" trans.diat="-7" trans.semi="-12" meter.sym="cut">
-                              <label xml:id="label-38">Kontrabass</label>
+                           <staffDef xml:id="staffDef-39" n="18" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
+                              <label xml:id="label-38">Test</label>
+                           </staffDef>
+                           <staffDef xml:id="staffDef-40" n="19" lines="5" clef.shape="F" clef.line="4" trans.diat="-7" trans.semi="-12" meter.sym="cut">
+                              <label xml:id="label-39">Kontrabass</label>
                            </staffDef>
                         </staffGrp>
                      </staffGrp>
-                     <staffDef xml:id="staffDef-40" n="19" lines="5" clef.shape="G" clef.line="2" meter.sym="cut"/>
-                     <staffDef xml:id="staffDef-41" n="20" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
-                        <label xml:id="label-39">Test</label>
-                     </staffDef>
+                     <staffDef xml:id="staffDef-41" n="20" lines="5" clef.shape="G" clef.line="2" meter.sym="cut"/>
                      <staffDef xml:id="staffDef-42" n="21" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
                         <label xml:id="label-40">Test</label>
                      </staffDef>
