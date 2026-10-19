@@ -134,7 +134,7 @@
                         <staffDef xml:id="staffDef-10" n="10" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.sym="cut">
                            <label xml:id="label-10">Pauken in A, e</label>
                         </staffDef>
-                        <staffDef xml:id="staffDef-11" n="11" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
+                        <staffDef xml:id="staffDef-11" n="11" lines="1" clef.shape="perc" clef.line="1" meter.sym="cut">
                            <label xml:id="label-11">Kleine Trommel</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-12" n="12" lines="1" clef.shape="perc" clef.line="1" meter.sym="cut">
@@ -601,7 +601,7 @@
                         <staffDef xml:id="staffDef-28" n="10" lines="5" clef.shape="F" clef.line="4" keysig="0" meter.sym="cut">
                            <label xml:id="label-28">Pauken in A, e</label>
                         </staffDef>
-                        <staffDef xml:id="staffDef-29" n="11" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
+                        <staffDef xml:id="staffDef-29" n="11" lines="1" clef.shape="perc" clef.line="1" meter.sym="cut">
                            <label xml:id="label-29">Kleine Trommel</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-30" n="12" lines="1" clef.shape="perc" clef.line="1" meter.sym="cut">
