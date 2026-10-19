@@ -25,3 +25,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-19T10:04:25.905Z,P0002,,38179254,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0002""}",19
 2026-10-19T10:16:58.067Z,P0005,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0005""}",20
 2026-10-19T10:30:22.494Z,P0004,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0004""}",21
+2026-10-19T10:31:34.817Z,P0004,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""P0004"",""subtask_id"":""""}",22
