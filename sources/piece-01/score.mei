@@ -109,7 +109,7 @@
                            </staffDef>
                         </staffGrp>
                         <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
-                           <label xml:id="label-3">Oboe I!</label>
+                           <label xml:id="label-3">Oboe I, II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-4" n="4" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="-2" trans.semi="-3" meter.sym="cut">
                            <label xml:id="label-4">Klarinette in A II</label>
@@ -576,7 +576,7 @@
                            </staffDef>
                         </staffGrp>
                         <staffDef xml:id="staffDef-21" n="3" lines="5" clef.shape="G" clef.line="2" meter.sym="cut">
-                           <label xml:id="label-21">Oboe I!</label>
+                           <label xml:id="label-21">Oboe I, II</label>
                         </staffDef>
                         <staffDef xml:id="staffDef-22" n="4" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="-2" trans.semi="-3" meter.sym="cut">
                            <label xml:id="label-22">Klarinette in A II</label>
