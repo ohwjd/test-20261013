@@ -1,0 +1,127 @@
+{
+	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
+	"pages": [
+		{
+			"image": "../img/03.jpg",
+			"measures": [
+				{
+					"ulx": 263,
+					"uly": 1665,
+					"lrx": 778,
+					"lry": 3255
+				},
+				{
+					"ulx": 792,
+					"uly": 1655,
+					"lrx": 1105,
+					"lry": 3271
+				},
+				{
+					"ulx": 1116,
+					"uly": 1663,
+					"lrx": 1429,
+					"lry": 3272
+				},
+				{
+					"ulx": 1445,
+					"uly": 1656,
+					"lrx": 1704,
+					"lry": 3269
+				},
+				{
+					"ulx": 1713,
+					"uly": 1661,
+					"lrx": 2022,
+					"lry": 3269
+				},
+				{
+					"ulx": 2026,
+					"uly": 1659,
+					"lrx": 2334,
+					"lry": 3275
+				}
+			],
+			"staves": [
+				{
+					"ulx": 254,
+					"uly": 1651,
+					"lrx": 2334,
+					"lry": 1715
+				},
+				{
+					"ulx": 259,
+					"uly": 1776,
+					"lrx": 2335,
+					"lry": 1839
+				},
+				{
+					"ulx": 255,
+					"uly": 1910,
+					"lrx": 2337,
+					"lry": 1979
+				},
+				{
+					"ulx": 257,
+					"uly": 2050,
+					"lrx": 2337,
+					"lry": 2114
+				},
+				{
+					"ulx": 256,
+					"uly": 2176,
+					"lrx": 2341,
+					"lry": 2241
+				},
+				{
+					"ulx": 263,
+					"uly": 2280,
+					"lrx": 2332,
+					"lry": 2347
+				},
+				{
+					"ulx": 261,
+					"uly": 2408,
+					"lrx": 2341,
+					"lry": 2472
+				},
+				{
+					"ulx": 264,
+					"uly": 2546,
+					"lrx": 2332,
+					"lry": 2610
+				},
+				{
+					"ulx": 256,
+					"uly": 2664,
+					"lrx": 2339,
+					"lry": 2728
+				},
+				{
+					"ulx": 261,
+					"uly": 2826,
+					"lrx": 2338,
+					"lry": 2891
+				},
+				{
+					"ulx": 268,
+					"uly": 2946,
+					"lrx": 2341,
+					"lry": 3007
+				},
+				{
+					"ulx": 265,
+					"uly": 3076,
+					"lrx": 2326,
+					"lry": 3138
+				},
+				{
+					"ulx": 269,
+					"uly": 3192,
+					"lrx": 2325,
+					"lry": 3258
+				}
+			],
+			"grandstaves": []
+		}
+	]
+}
