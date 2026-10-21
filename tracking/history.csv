@@ -35,3 +35,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-20T13:53:12.279Z,P0002,S0001,297915765,release_validation,accepted,,campaign.abandon,1,"{""task_id"":""P0002"",""subtask_id"":""S0001""}",27
 2026-10-21T08:04:13.640Z,P0002,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0002"",""subtask_id"":""S0001""}",28
 2026-10-21T08:05:35.262Z,P0002,S0001,297915765,release_validation,accepted,,campaign.abandon,1,"{""task_id"":""P0002"",""subtask_id"":""S0001""}",29
+2026-10-21T13:28:41.279Z,P0005,,297915765,reap,released,encoding,,,,
